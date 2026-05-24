@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** based in **Malibagh, Dhaka, Bangladesh** 🇧🇩, who loves crafting clean, responsive, and user-friendly web experiences. I enjoy working across the full stack and have a strong eye for design.
+I'm a passionate **Web Developer** based in **Malibagh, Dhaka, Bangladesh** 🇧🇩, who loves crafting clean, responsive, and user-friendly web experiences. I enjoy working across the full stack and have a strong eye for design.
 
 - 📍 **Location:** Malibagh, Dhaka, Bangladesh
 - 📧 **Email:** [ahsanulislam083@gmail.com](mailto:ahsanulislam083@gmail.com)
