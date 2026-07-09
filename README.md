@@ -14,13 +14,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Web Developer** based in **Malibagh, Dhaka, Bangladesh** 🇧🇩, who loves crafting clean, responsive, and user-friendly web experiences. I enjoy working across the full stack and have a strong eye for design.
+I'm a passionate **Web Developer** based in **Malibagh, Dhaka, Bangladesh** 🇧🇩, who loves crafting clean, responsive, and user-friendly web experiences. I enjoy working across the full stack and have a strong eye for design. I'm always looking to learn new tools and build things that solve real problems.
 
 - 📍 **Location:** Malibagh, Dhaka, Bangladesh
 - 📧 **Email:** [ahsanulislam083@gmail.com](mailto:ahsanulislam083@gmail.com)
-- 🔭 Currently building cool full-stack projects from scratch
-- 🌱 Sharpening my skills with **React**, **Next.js** and **Node.js**
-- ⚡ Always exploring new tools and best practices in web development
+
+---
+
+## 🚀 Current Activities
+
+- 🔭 I'm currently building **FitFlow**, a MERN stack gym class booking and content platform
+- 🌱 I'm sharpening my skills in **React**, **Next.js**, and **Node.js**
+- 🎯 Taking on the **#100DaysOfCode** challenge
+- 👀 Exploring backend architecture and scalable API design
 
 ---
 
@@ -32,6 +38,7 @@ I'm a passionate **Web Developer** based in **Malibagh, Dhaka, Bangladesh** 🇧
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -39,7 +46,13 @@ I'm a passionate **Web Developer** based in **Malibagh, Dhaka, Bangladesh** 🇧
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Animation & UI
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -62,9 +75,9 @@ const ahsan = {
 
   code: ["JavaScript (ES6+)", "HTML", "CSS"],
 
-  frontend: ["React", "Next.js", "Tailwind CSS", "React Router"],
+  frontend: ["React", "Next.js", "Tailwind CSS", "React Router", "GSAP", "Framer Motion"],
 
-  backend: ["Node.js", "MongoDB"],
+  backend: ["Node.js", "Express.js", "MongoDB", "JWT"],
 
   tools: ["Git", "GitHub", "Figma", "Netlify", "Vercel"],
 
@@ -75,6 +88,24 @@ const ahsan = {
   funFact: "I like building cool stuff on the web 🚀"
 };
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Ahsanul's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ahsanul-Islam-083&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahsanul-Islam-083&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Ahsanul-Islam-083&theme=radical&hide_border=true)
+
+</div>
+
 ---
 
 ## 🤝 Connect With Me
@@ -83,6 +114,7 @@ const ahsan = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsanulislamrifat/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanulislam083@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+8801622989531)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahsanul-Islam-083)
 
 </div>
@@ -93,4 +125,3 @@ const ahsan = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 </div>
-
