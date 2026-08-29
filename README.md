@@ -23,7 +23,7 @@ I'm a passionate **Web Developer** based in **Malibagh, Dhaka, Bangladesh** 🇧
 
 ## 🚀 Current Activities
 
-- 🔭 I'm currently building **FitFlow**, a MERN stack gym class booking and content platform
+- 🔭 I'm currently building **FitFlow**, a Full stack gym class booking and content platform
 - 🌱 I'm sharpening my skills in **React**, **Next.js**, and **Node.js**
 - 🎯 Taking on the **#100DaysOfCode** challenge
 - 👀 Exploring backend architecture and scalable API design
